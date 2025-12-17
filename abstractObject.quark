@@ -1,0 +1,8 @@
+(
+        \name: "AbstractObject Experiment",
+       	\summary: "ProtoObject, Import, Debugger, and Wrapper, all experiments base on AbstractObject.",
+        \author: "Jordan Henderson",
+     	\copyright: "Jordan Henderson 2023",
+        \license: "GPL",
+        \version: "0.1",
+)
