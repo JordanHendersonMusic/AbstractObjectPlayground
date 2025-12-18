@@ -1,4 +1,4 @@
-ProtoObject : AbstractObject {
+ProtoObject : ExperimentalAbstractObject {
 	classvar defaultObject;
 	var <protoObjectUnderlyingDictionary;
 

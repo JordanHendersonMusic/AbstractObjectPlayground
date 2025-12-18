@@ -1,4 +1,4 @@
-Wrapper : AbstractObject {
+Wrapper : ExperimentalAbstractObject {
 	var held, beforeAction, afterAction;
 	*new {|held, beforeAction, afterAction ... a, k|
 		^super.superPerformArgs(\newCopyArgs, a, [held: held, beforeAction: beforeAction, afterAction: afterAction] ++ k);

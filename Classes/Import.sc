@@ -1,4 +1,4 @@
-Import : AbstractObject {
+Import : ExperimentalAbstractObject {
 	var path, env;
 
 	*new { |path|
